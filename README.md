@@ -32,3 +32,6 @@ Then, in the file path "\ws_hzy\src\uav_planning\scripts\real_world", open a new
 python3 uav_control_ros.py
 ```
 Then, enter the command to unlock the UAV, take off, and execute the STL mission.
+
+### Video
+[Experiment Video](https://vimeo.com/869509705?share=copy).
