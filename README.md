@@ -33,5 +33,8 @@ python3 uav_control_ros.py
 ```
 Then, enter the command to unlock the UAV, take off, and execute the STL mission.
 
+## Data
+"2024-03-12-14-46-24.bag" is the correct data.
+
 ### Video
 [Experiment Video](https://vimeo.com/manage/videos/924906196).
