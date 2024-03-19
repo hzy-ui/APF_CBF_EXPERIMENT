@@ -12,7 +12,7 @@ The VICON coordinates: ENU; UAV local coordinates: FLU.
 
 The aircraft configuration includes the following components: Ano P2 flight controller, a quadcopter design equipped with TMOTOR 2216 brushless motors and T1045 propellers. Onboard, there is an RPLidar single-line rotating LiDAR responsible for environmental sensing, while an Intel NUC serves as the onboard computer for executing algorithms and controlling UAV motion. The UAV receives global positioning updates from VICON via a data telemetry radio.
 
-Flight controller serial port: /dev/ttyUSB0; Data telemetry radio: /dev/ttyUSB1;LiDAR: /dev/ttyUSB2.
+Flight controller serial port: /dev/ttyUSB0; Data telemetry radio: /dev/ttyUSB1; LiDAR: /dev/ttyUSB2.
 
 First, check and enable the serial ports
 ```
