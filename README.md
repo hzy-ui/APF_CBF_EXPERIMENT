@@ -1,5 +1,5 @@
 # APF_CBF_VICON
-These are the experiment codes of implementation of the APF CBF control framework in a UAV within the VICON system.
+These are the experiment codes of implementation of the APF CBF control framework in a UAV within the VICON system to complete the allocated STL task.
 The Experiment depends on the ROS (Melodic) environment which runs in Linux (Ubuntu 18.04).
 
 ## The Experiment configuration 
