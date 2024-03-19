@@ -3,7 +3,7 @@ These are the experiment codes of implementation of the APF CBF control framewor
 The Experiment depends on the ROS (Melodic) environment which runs in Linux (Ubuntu 18.04).
 
 ## The Experiment configuration 
-'''![This is an alt text.](/image/lab_env_xyz.jpg "The VICON system configuration.")
+<!-- ![This is an alt text.](/image/lab_env_xyz.jpg "The VICON system configuration.")-->
 <img src="/image/lab_env_xyz.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
 ## Blocks of code
