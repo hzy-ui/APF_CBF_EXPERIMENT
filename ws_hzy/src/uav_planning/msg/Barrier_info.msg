@@ -1,9 +1,0 @@
-float32 t
-float32 h
-float32 gamma
-float32 b
-float32 u1
-float32 u2
-float32 x
-float32 y
-float32 b_t

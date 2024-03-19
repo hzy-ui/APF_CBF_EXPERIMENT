@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<launch>
-  <!-- Launch Gazebo with a specified world file -->
-  <node name="gazebo" pkg="gazebo_ros" type="gazebo" args="$(find mavlink_sitl_gazebo)/worlds/task_enviroment.world" output="screen" />
-</launch>

@@ -1,2 +1,0 @@
-rplidar_ros:uav_planning
--DCATKIN_DEVEL_PREFIX=/home/client3/ws_hzy/devel -DCMAKE_INSTALL_PREFIX=/home/client3/ws_hzy/install -G Unix Makefiles
