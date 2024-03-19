@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Include the MAVROS node with SITL and Gazebo -->
+	<include file="$(find px4)/launch/mavros_posix_sitl_lidar.launch">
+	</include>
+
+	<!-- Our node to control the drone -->
+	<node pkg="uav_planning" type="vel_CBF_APF_updates_lidar.py" name="test" required="true" output="screen" />
+</launch>
+

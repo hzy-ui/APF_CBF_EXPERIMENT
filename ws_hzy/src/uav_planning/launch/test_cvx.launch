@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+	<!-- Our node to control the drone -->
+	<node pkg="uav_planning" type="convex_test.py" name="test" required="true" output="screen" />
+</launch>
+

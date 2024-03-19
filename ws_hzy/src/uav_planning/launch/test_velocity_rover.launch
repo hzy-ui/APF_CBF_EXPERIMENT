@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+	<!-- Include the MAVROS node with SITL and Gazebo -->
+	<include file="$(find px4)/launch/mavros_posix_sitl _hzy.launch">
+        </include>
+        <!-- uncommend this if u also wanna keyborad control in one terminal-->
+        <include file="$(find turtlebot3_teleop)/launch/turtlebot3_teleop_key.launch">
+	</include>
+
+	<!-- Our node to control the drone -->
+	<node pkg="uav_planning" type="test_velocity_rover.py" name="test" required="true" output="screen" />
+</launch>
+

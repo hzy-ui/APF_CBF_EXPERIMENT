@@ -1,0 +1,8 @@
+prefix=/home/client3/ws_hzy/devel
+
+Name: uav_planning
+Description: Description of uav_planning
+Version: 0.0.0
+Cflags: -I/home/client3/ws_hzy/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime
