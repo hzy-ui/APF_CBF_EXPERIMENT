@@ -4,6 +4,7 @@ The Experiment depends on the ROS (Melodic) environment which runs in Linux (Ubu
 
 ## The Experiment configuration 
 ![This is an alt text.](/image/lab_env_xyz.jpg "The VICON system configuration.")
+<img src="/image/lab_env_xyz.jpg" alt="This is an alt text." style="width:500px;height:300px;">
 
 ## Blocks of code
 First, open a terminal and run:
