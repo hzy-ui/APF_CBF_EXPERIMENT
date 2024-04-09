@@ -37,10 +37,10 @@ Then, enter the command to unlock the UAV, take off, and execute the STL mission
 "2024-03-12-14-46-24.bag" is the correct data.
 
 ### Video
-<!-- [Experiment Video](https://vimeo.com/manage/videos/924906196).
+<!-- [Experiment Video](https://vimeo.com/manage/videos/924906196).-->
 <video width="320" height="240" controls>
   <source src="[/video/experiment video.mp4](https://github.com/hzy-ui/APF_CBF_EXPERIMENT/raw/main/video/experiment%20video.mp4)" type="video/mp4">
   Your browser does not support the video tag.
-</video>-->
+</video>
 
 ![视频描述](video/experiment video.mp4)
