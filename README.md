@@ -42,4 +42,6 @@ Then, enter the command to unlock the UAV, take off, and execute the STL mission
   <source src="[/video/experiment video.mp4](https://github.com/hzy-ui/APF_CBF_EXPERIMENT/raw/main/video/experiment%20video.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>-->
-https://github.com/hzy-ui/APF_CBF_EXPERIMENT/raw/main/video/experiment%20video.mp4
+
+https://github.com/hzy-ui/APF_CBF_EXPERIMENT/assets/57697130/86ada401-128b-417d-931e-5901f755e06f
+
