@@ -44,4 +44,4 @@ Then, enter the command to unlock the UAV, take off, and execute the STL mission
 </video>-->
 
 https://github.com/hzy-ui/APF_CBF_EXPERIMENT/assets/57697130/86ada401-128b-417d-931e-5901f755e06f
-
+Please click the [link](https://vimeo.com/manage/videos/932476922) to get access to the video with higher resolution.
