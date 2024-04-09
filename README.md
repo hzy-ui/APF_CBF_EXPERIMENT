@@ -39,6 +39,6 @@ Then, enter the command to unlock the UAV, take off, and execute the STL mission
 ### Video
 <!-- [Experiment Video](https://vimeo.com/manage/videos/924906196).-->
 <video width="320" height="240" controls>
-  <source src="video/experiment video.mp4" type="video/mp4">
+  <source src="/video/experiment video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
